@@ -1,5 +1,5 @@
 # My Curriculum Vitae website made in Docusaurus
-## _Docker container and Heroku integration_
+## _Docker and Heroku integration_
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Tysta/WebsiteCv)
