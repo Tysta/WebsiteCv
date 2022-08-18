@@ -4,11 +4,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Tysta/WebsiteCv)
 
-This app consists in a Docusaurus website with my CV in markdown in a docker container with automatic deployment to Heroku
+This app consists in a Docusaurus website with my CV.
+It uses docker and is hosted in Heroku (with automatic deployments enabled)
 
 - Docusaurus
 - Markdown
 - Docker
 - Heroku
-
-
