@@ -6,8 +6,3 @@
 
 This app consists in a Docusaurus website with my CV.
 It uses docker and is hosted in Heroku (with automatic deployments enabled)
-
-- Docusaurus
-- Markdown
-- Docker
-- Heroku
