@@ -94,10 +94,6 @@ const config = {
                 label: 'Linkedin',
                 href: 'https://www.linkedin.com/in/96-tiago-sousa',
               },
-              {
-                label: 'Phone',
-                href: 'tel:+351912749089',
-              },
             ],
           },
         ],
